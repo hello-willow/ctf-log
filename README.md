@@ -2,10 +2,18 @@
 If you don't know where you're going, any road will get you there.[^1]
 
 
+## Live
+| Name | Date | Results | 
+| :--- | :--- | :--- |
+| Cyber Apocalypse 2022 | 14MAY22 - 19MAY22 | 1 pwn |
+| NahamCon 2022 | 28APR22 - 30APR22 | 5 warm-ups |
 
-| Start Date | Name | Status | Progress |
-| :--- | :--- | :--- | :--- |
-|29Mar22| NahamCon 2022 | Live | 5 warm-ups |
+## Ongoing
+| Name | Progress | 
+| :--- | :--- |
+| OverTheWire ||
+| picoGym ||
+| HackTheBox  ||
 
 !["Then it doesn't matter which way you go," said the Cat.](/media/cheshire_cat.png)
 
@@ -16,3 +24,6 @@ If you don't know where you're going, any road will get you there.[^1]
   "Then it doesn't matter which way you go," said the Cat. \
   "--so long as I get somewhere," Alice added as an explanation. \
   "Oh, you're sure to do that," said the Cat, "if you only walk long enough."
+
+
+Sat, May 14, 1pm – Thu, May 19
