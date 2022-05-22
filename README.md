@@ -11,7 +11,7 @@ If you don't know where you're going, any road will get you there.[^1]
 ## Labs
 | Name | Progress | 
 | :--- | :--- |
-| OverTheWire ||
+| OverTheWire | Bandit - 14|
 | picoGym ||
 | HackTheBox  ||
 
