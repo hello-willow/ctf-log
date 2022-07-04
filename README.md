@@ -12,7 +12,7 @@ If you don't know where you're going, any road will get you there.[^1]
 | Name | Progress | 
 | :--- | :--- |
 | OverTheWire | Bandit - 14|
-| picoGym ||
+| picoGym | General: 7/34, RE: 2/55|
 | HackTheBox  ||
 
 !["Then it doesn't matter which way you go," said the Cat.](/media/cheshire_cat.png)
