@@ -2,10 +2,10 @@
 
 ## Labs
 
-https://app.hackthebox.com/login
-https://overthewire.org/wargames/
-https://play.picoctf.org/practiceu
-https://crackmes.one/
+https://app.hackthebox.com/login \
+https://overthewire.org/wargames \
+https://play.picoctf.org/login \
+https://crackmes.one
 
 ## Tools
 
