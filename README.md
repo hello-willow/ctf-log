@@ -11,9 +11,10 @@ If you don't know where you're going, any road will get you there.[^1]
 ## Labs
 | Name | Progress | 
 | :--- | :--- |
-| OverTheWire | Bandit - 14|
+| OverTheWire | Bandit: 14|
 | picoGym | General: 7/34, RE: 2/55|
 | HackTheBox  ||
+| crackmes | 2 |
 
 !["Then it doesn't matter which way you go," said the Cat.](/media/cheshire_cat.png)
 
