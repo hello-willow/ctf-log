@@ -12,6 +12,7 @@ Played Friday and Saturday afternoon and night. Need either a new computer or ro
 ### web
 - **World Wide Web**
   - Hyperlink hopscotch across series of webpages covered in anchor HTML tags. Used HTML search to quickly find the actual `href` in each page. Got to a dummy HTML page with just the text `Boooo!`, but that was not the flag. Page also sends a same-site lax cookie called `solChain`. I tried resending the cookie wiht BurpSuite but couldn't figure out what value it was looking for (simply JavaScript injection didn't do anything).
+  - Notes from team solve: Use recursive option on `wget`: `wget -r -l 10000 http://web.chal.csaw.io:5010/`. Flag was in a file on page ~99.
 
 ### crypto
 - **Phi Too Much in Common**
